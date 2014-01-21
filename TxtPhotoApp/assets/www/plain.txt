@@ -1,0 +1,7 @@
+This is a test. 
+
+This test wiil show us a text by pushing a button.
+
+This is very difficult because its via android.
+
+:P
